@@ -32,6 +32,5 @@ For further details contact our team.
 **_Happy learning with Geek._**
 
 
-_with regards,_
-
-**Geek Community**
+with regars,
+Geek Community
