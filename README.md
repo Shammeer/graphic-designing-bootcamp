@@ -29,7 +29,7 @@ For further details contact our team.
 1. Take a complete look at "README.md" file before commiting any change.
 2. Don't try to commit changes in any other files.
 
-**_Happy learning with Geek._**
+**Happy learning with Geek.**
 
 
 with regards,
